@@ -1,4 +1,5 @@
 ## Introduction
+TODO
 
 ### Dependencies
 - gRPC
@@ -13,7 +14,9 @@
 
 
 ## How to develop
+TODO
 
-## 参考
-https://www.jianshu.com/p/43c10df00be3
+## References
+
+- [使用 NodeJS 提供抖音签名算法服务](https://www.jianshu.com/p/43c10df00be3)
 
